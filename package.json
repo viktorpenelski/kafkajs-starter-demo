@@ -1,0 +1,23 @@
+{
+  "name": "kafka-node",
+  "version": "0.0.1",
+  "description": "a quick-start demo producer/consumer using kafkajs",
+  "main": "consumer.js",
+  "dependencies": {
+    "kafkajs": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorpenelski/kafkajs-starter-demo.git"
+  },
+  "author": "Viktor Penelski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorpenelski/kafkajs-starter-demo/issues"
+  },
+  "homepage": "https://github.com/viktorpenelski/kafkajs-starter-demo#readme"
+}
